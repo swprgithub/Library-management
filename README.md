@@ -30,9 +30,6 @@ Book data is stored persistently in a JSON file, so updates remain even after th
 
 ---
 
-## 📁 File Structure
-
----
 
 ## 🚀 How to Run
 
